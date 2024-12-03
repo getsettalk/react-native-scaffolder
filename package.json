@@ -1,0 +1,20 @@
+{
+  "name": "react-native-folder-scaffolder",
+  "version": "1.0.0",
+  "description": "A CLI tool for creating structured React Native project folders",
+  "main": "scaffolder.js",
+  "bin": {
+    "rn-scaffold": "./scaffolder.js"
+  },
+  "keywords": [
+    "react-native",
+    "scaffolding",
+    "folder-structure"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "fs-extra": "^11.2.0"
+  }
+}
